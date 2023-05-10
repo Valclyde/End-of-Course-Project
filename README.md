@@ -1,6 +1,7 @@
 # End-of-Course-Project
 
 Section 1: Architecture
+
 Design a highly available, scalable, and secure three tier architecture to host a monolithic application on Ec2 instances.
 Your design should contain, but not limited to the following.
 •	ALB
